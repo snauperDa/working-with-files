@@ -1,0 +1,4 @@
+Toyota;2015;Ivanov;A123BC
+Lada;2020;Petrov;X789YZ
+Toyota;2010;Sidorov;E456TN
+BMW;2018;Smirnov;O001OO
